@@ -2,7 +2,7 @@
 
 This repository contains the Python and Manim scripts used to create the data-driven simulations for my YouTube video, "I Simulated Every Way to Make Money in CS2."
 
-► **Watch the full video here:** 
+► **Watch the full video here:** https://youtu.be/81VoXeQrhIQ
 
 ---
 
